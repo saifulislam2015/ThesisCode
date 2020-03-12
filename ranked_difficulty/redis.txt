@@ -1,0 +1,9 @@
+  Topic            Mean(minutes)  Median(minutes)
+Web application      24388           388
+Features             28486           344
+Integration          15471           222
+Social networking    5661            203
+Server issues        23411           266
+Testing              24777           183
+Structure            19297           178
+Installation         17278           165

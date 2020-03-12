@@ -1,0 +1,13 @@
+  Topic                  Mean(minutes)  Median(minutes)
+Installation                16673          171
+Integration                 16699          156
+Data Distribution           17364          132
+Comparative discussion      16433          113
+Web application             7751           103
+Issues                      15658          88
+Errors & exceptions         7168           73
+Features                    10416          70
+Structure                   9873           70
+
+
+

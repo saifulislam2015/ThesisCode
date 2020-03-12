@@ -1,0 +1,10 @@
+hadoop : 2686
+couchbase : 2662
+java : 1454
+mapreduce : 545
+nosql : 485
+apache-spark : 480
+hive : 441
+couchbase-lite : 408
+phoenix : 358
+apache-zookeeper : 319

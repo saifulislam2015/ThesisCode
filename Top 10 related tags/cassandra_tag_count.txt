@@ -1,0 +1,10 @@
+java                 1840
+datastax             1563
+cql                  1431
+cassandra-2.0        1246
+apache-spark         1152
+nosql                1103
+datastax-enterprise  826
+cassandra-3.0        666
+cql3                 619
+python               572

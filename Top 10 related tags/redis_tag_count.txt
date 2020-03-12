@@ -1,0 +1,12 @@
+node.js : 1987
+python : 1056
+php : 879
+caching : 827
+ruby-on-rails : 818
+java : 805
+c# : 614
+stackexchange.redis : 542
+ruby : 539
+javascript : 494
+
+

@@ -1,0 +1,10 @@
+cypher : 5714
+java : 1932
+spring-data-neo4j : 1345
+graph-databases : 1035
+graph : 596
+neo4jclient : 530
+spring-data-neo4j-4 : 512
+spring : 509
+python : 499
+py2neo : 457

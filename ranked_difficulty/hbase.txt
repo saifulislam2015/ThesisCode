@@ -1,0 +1,12 @@
+ Topic               Mean(minutes)  Median(minutes)
+Errors & exceptions   19140             1392
+Disk space issues     28871             1195
+Domain Classes        5209              882
+Integration           26797             809
+Issues                18674             801
+Import                12815             782
+Structure             19542             605
+Installation          44908             460
+
+
+

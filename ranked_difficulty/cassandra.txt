@@ -1,0 +1,11 @@
+  Topic               Mean(minutes)  Median(minutes)
+Integration              15177          589
+Errors & exceptions      19050          332
+Issues                   19294          325
+Data                     20863          313
+Data Platform            10213          313
+Installation             29233          305
+Structure                10718          280
+Import                   17473          253
+
+

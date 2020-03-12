@@ -1,0 +1,11 @@
+Topic                 Mean(minutes)  Median(minutes)
+Errors & exceptions       11849         1105
+Graph Platform            7101          373
+Integration               13595         321
+Issues                    11124         310
+Comparison                17438         208
+Feature                   11224         174
+Structure                 4786          122
+Import                    4317          111
+
+
